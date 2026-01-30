@@ -24,4 +24,4 @@ ativos = [
                         for a in ativos:
                             valor_alocar = total * a['Peso']
                                 st.success(f"**{a['Ativo']}**: Investir R$ {valor_alocar:,.2f} (Preço Teto: R$ {a['Teto']})")
-                                
+                            
