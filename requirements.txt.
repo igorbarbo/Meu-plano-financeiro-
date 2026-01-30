@@ -1,2 +1,10 @@
+streamlit
+pandas
+yfinance
+numpy
+matplotlib
+requests
+streamlit-gsheets
+
 
 
