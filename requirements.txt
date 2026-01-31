@@ -1,3 +1,5 @@
-yfinance
-streamlit-gsheets-connection
+yfinance==0.2.31
+pandas==2.1.1
+streamlit-gsheets-connection==0.0.3
+
 
