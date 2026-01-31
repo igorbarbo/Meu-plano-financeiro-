@@ -119,3 +119,4 @@ if autenticar():
 # --- ARQUITETURA FINAL ---
 # 
 
+ 
